@@ -1,0 +1,48 @@
+#signin {
+  background-color: #e90202;
+  border-radius: 30px;
+}
+
+#signup {
+  background-color: #e90202;
+  border-radius: 30px;
+  height: 40px;
+  width: 100px;
+}
+
+#divhead {
+  border-radius: 30px;
+  background-color: #d9d9d9;
+  height: 200px;
+  width: 60%;
+  margin: auto;
+}
+
+#input_search {
+  text-align: left;
+  margin-right: 10px;
+  width: 270px;
+  padding: 7px 10px;
+  border-radius: 30px;
+  border: solid;
+  background-color: #7fbcd2;
+}
+
+#search {
+  display: flex;
+  justify-content: center;
+}
+
+#header_text {
+  margin-bottom: 49px;
+  padding-top: 24px;
+}
+
+#head-sign {
+  background: #e90202;
+}
+
+#text-tracuu {
+  text-align: center;
+}
+
